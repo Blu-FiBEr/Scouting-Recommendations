@@ -3,7 +3,7 @@
 
 # Description 
 
-The ever-growing popularity of football has led to an increasing demand for efficient methods of player recruitment and team building. We propose a novel recommendation system that leverages collaborative filtering techniques to provide personalized recommendations of football players to clubs. Our system aims to assist clubs in identifying potential players who align with their specific requirements and strategic objectives, thereby enhancing their chances of success on the field.\\
+The ever-growing popularity of football has led to an increasing demand for efficient methods of player recruitment and team building. We propose a recommendation system that leverages collaborative filtering techniques to provide personalized recommendations of football players to clubs. Our system aims to assist clubs in identifying potential players who align with their specific requirements and strategic objectives, thereby enhancing their chances of success on the field.\\
 
 # Dependencies
 
