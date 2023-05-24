@@ -13,7 +13,7 @@ The ever-growing popularity of football has led to an increasing demand for effi
 - re: regular expression operations library
 
 # File Structure
-- Dataset : This directory contains the FIFA dataset containing all player information for the years 2017 -2023. https://www.kaggle.com/datasets/bryanb/fifa-player-stats-database
+- Dataset : This directory contains the FIFA dataset containing all player information for the years 2017 -2023. [https://www.kaggle.com/datasets/bryanb/fifa-player-stats-database](https://medium.com/@keshavgoyal568/playing-the-same-game-b88e328b9c5)
 - rec_actual_data: This directory contains the engineered club philosophy.
 
 ## Final Model
